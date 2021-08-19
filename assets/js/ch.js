@@ -6,12 +6,12 @@ var typewriter = new Typewriter(app, {
 					loop: true
 					});
 							
-				typewriter.typeString('Programmer')
+				typewriter.typeString('Data Engineer')
 						.pauseFor(1200)
 						.deleteAll()
-// 						.typeString('Tech Writer')
-// 						.pauseFor(1200)
-// 						.deleteAll()
+						.typeString('Programmer')
+						.pauseFor(1200)
+						.deleteAll()
 						.typeString('Time Pass Chef ;)')
 						.pauseFor(1200)
 						.start();
