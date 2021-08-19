@@ -9,9 +9,9 @@ var typewriter = new Typewriter(app, {
 				typewriter.typeString('Programmer')
 						.pauseFor(1200)
 						.deleteAll()
-						.typeString('Tech Writer')
-						.pauseFor(1200)
-						.deleteAll()
+// 						.typeString('Tech Writer')
+// 						.pauseFor(1200)
+// 						.deleteAll()
 						.typeString('Time Pass Chef ;)')
 						.pauseFor(1200)
 						.start();
